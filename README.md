@@ -13,7 +13,7 @@
 
 * [**小型项目轻型框架**](https://github.com/linguoyuan/06_SimpleFrame)
 
-* [**xlua热更新实战**](https://github.com/linguoyuan/06_SimpleFrame)
+* [**xlua热更新实战**](https://github.com/linguoyuan/xLuaSampleFrame)
 
 
 
