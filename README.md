@@ -15,7 +15,7 @@
 
 * [**xlua热更新实战**](https://github.com/linguoyuan/xLuaSampleFrame)
 
-
+* [**惊悚医院**](https://github.com/linguoyuan/07_JingSongYiYuan)
 
 
 02 Unity && C#  API  基础API
